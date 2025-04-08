@@ -1,50 +1,34 @@
-# Welcome to your Expo app 👋
+# 📚 Book Habit Tracker
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+### What is Book Habit Tracker?
 
-## Get started
+**Book Habit Tracker** is a simple yet powerful habit-tracking app to help you stay consistent in your reading journey.  
+It features:
 
-1. Install dependencies
+- 🟩 **One clean screen**
+- 📊 **Contribution graph** to visualize your reading streak
+- ⏱ **Timer** to track how long you've read each day
 
-   ```bash
-   npm install
-   ```
+Everything is optimized for productivity with a clean, JetBrains Mono-inspired design.
 
-2. Start the app
+---
 
-   ```bash
-    npx expo start
-   ```
+### Why did I build this?
 
-In the output, you'll find options to open the app in a
+Honestly, I personally struggle with building habits.  
+Even after reading a few pages of _Atomic Habits_ (awesome book, even though I haven’t finished it), I couldn't keep my 20-minute daily reading routine going.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+So I thought: _Why not build my own simple app?_  
+No subscriptions. No bloated features. Just a side project built in **3 days** – for myself, and for free.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+---
 
-## Get a fresh project
+### 🛠 For devs
 
-When you're ready, run:
+- Built with **React Native + Expo**
+- 100% **local-first** – no backend required
+- My first app that doesn't use **NestJS + MongoDB** combo 😄
 
-```bash
-npm run reset-project
-```
+---
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Want to support it? Buy me a coffee ☕ → [https://buymeacoffee.com/YOUR-LINK](https://buymeacoffee.com/YOUR-LINK)
