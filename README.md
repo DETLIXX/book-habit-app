@@ -19,7 +19,7 @@ Honestly, I personally struggle with building habits.
 Even after reading a few pages of _Atomic Habits_ (awesome book, even though I haven’t finished it), I couldn't keep my 20-minute daily reading routine going.
 
 So I thought: _Why not build my own simple app?_  
-No subscriptions. No bloated features. Just a side project built in **3 days** – for myself, and for free.
+No subscriptions. No bloated features, just for myself, and for free.
 
 ---
 
@@ -30,5 +30,3 @@ No subscriptions. No bloated features. Just a side project built in **3 days** �
 - My first app that doesn't use **NestJS + MongoDB** combo 😄
 
 ---
-
-Want to support it? Buy me a coffee ☕ → [https://buymeacoffee.com/YOUR-LINK](https://buymeacoffee.com/YOUR-LINK)
